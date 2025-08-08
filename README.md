@@ -109,6 +109,9 @@ operar_pinza(t, false); % Cerrar gripper
 - Visualización de trayectoria sobre la imagen.
 - Tabla con puntos de movimiento generados.
 
+<img width="1200" height="691" alt="image" src="https://github.com/user-attachments/assets/8a3bfb35-4a30-4530-a09b-677f88fb0dc1" />
+
+
 ---
 
 ## 📚 Créditos
